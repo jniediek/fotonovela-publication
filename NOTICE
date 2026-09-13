@@ -1,0 +1,37 @@
+NOTICE -- the pictures and artwork in materials/
+
+This file covers materials/.
+The software in src/ and scripts/ is under LICENSE (MIT); the reduced data in
+data/ is under LICENSE-DATA (CC-BY-4.0).
+
+The original stimuli are not included
+-------------------------------------
+
+The pictures shown to the participants were largely third-party material. 
+No third-party original was copied into this
+repository. What materials/stimulus_pictures/ holds are generic
+avatars, our own artwork, drawn in Inkscape.
+
+logo_ikea.jpg
+-------------
+
+The word IKEA set in Arial bold in IKEA's colours. It is a typographic stand-in
+that says which concept the slide showed; it is not the mark. 
+
+Portraits published with consent
+--------------------------------
+
+Each of the three people depicted in epi_elger.jpg, epi_Weisskirchen.jpg and jenny.jpg has given consent to be shown and named in this publication.
+
+
+Our own pictures
+----------------
+
+All photographs not covered by the above paragraphs are our own photographs, produced as replacement material for the originals shown to study participants.
+
+
+Translated story
+----------------
+
+materials/715fn2_translated.txt is our own translation of the story that was
+shown to the participant.

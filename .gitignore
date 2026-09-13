@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated figures
+figures/
+
+.ruff_cache/
+
+guidelines.pdf
+
+*.swp
