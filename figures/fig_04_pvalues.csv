@@ -1,0 +1,6 @@
+figure,panel,region,neuron_class,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_04,c,Hipp.,inv,SWS vs Awake,binomtest,two-sided,9,13,,0.5234670639038086,n.s.,True
+fig_04,a,Hipp.,inv,SWS vs Awake,wilcoxon,two-sided,29,,157.0,0.19762490689754486,n.s.,True
+fig_04,c,Hipp.,inv,REM vs Awake,binomtest,two-sided,3,21,,0.0002771615982055664,***,True
+fig_04,a,Hipp.,inv,REM vs Awake,wilcoxon,two-sided,29,,57.0,0.00024197623133659363,***,True
+fig_04,c,Hipp.,inv,SWS/Awake vs REM/Awake,fisher_exact,two-sided,22,24,4.846153846153846,0.04403679389499015,*,True

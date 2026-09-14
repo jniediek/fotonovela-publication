@@ -1,0 +1,3 @@
+figure,panel,comparison,test,alternative,statistic,p,stars,drawn
+fig_S_02,b,Amyg. vs Parahipp.,fisher_exact,two-sided,0.28353658536585363,0.00012838987018497407,,True
+fig_S_02,b,Parahipp. vs Hipp.,fisher_exact,two-sided,2.593877551020408,0.0055777840539735675,,True

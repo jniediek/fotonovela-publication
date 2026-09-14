@@ -1,0 +1,2 @@
+figure,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_S_07,Awake vs SWS,mannwhitneyu,two-sided,127,125,7806.0,0.8208545855159168,n.s.,True

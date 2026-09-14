@@ -1,0 +1,22 @@
+figure,panel,region,stage,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_07,b,Amyg.,,Awake vs REM,mannwhitneyu,two-sided,119,117,5181.0,0.0006876478555863894,***,True
+fig_07,b,Amyg.,,REM vs SWS,mannwhitneyu,two-sided,117,110,3219.5,7.950276247717257e-11,***,True
+fig_07,b,Amyg.,,Awake vs SWS,mannwhitneyu,two-sided,119,110,1989.0,9.476275760967557e-20,***,True
+fig_07,b,Parahipp.,,Awake vs REM,mannwhitneyu,two-sided,233,233,22112.0,0.0005363386756294594,***,True
+fig_07,b,Parahipp.,,REM vs SWS,mannwhitneyu,two-sided,233,219,18846.0,1.5579364132468345e-06,***,True
+fig_07,b,Parahipp.,,Awake vs SWS,mannwhitneyu,two-sided,233,219,14838.5,1.4586320946302905e-14,***,True
+fig_07,b,Hipp.,,Awake vs REM,mannwhitneyu,two-sided,132,121,6375.0,0.00560835709436152,**,True
+fig_07,b,Hipp.,,REM vs SWS,mannwhitneyu,two-sided,121,126,5907.0,0.0022418390298336315,**,True
+fig_07,b,Hipp.,,Awake vs SWS,mannwhitneyu,two-sided,132,126,4456.5,1.1880336512080046e-10,***,True
+fig_07,b,Hipp. ripples,,Awake vs SWS,mannwhitneyu,two-sided,130,80,5017.0,0.669545029935193,n.s.,True
+fig_07,d,Amyg.,Awake,forward vs reverse,binomtest,two-sided,15,15,,1.0,n.s.,True
+fig_07,d,Amyg.,REM,forward vs reverse,binomtest,two-sided,3,2,,1.0,,False
+fig_07,d,Amyg.,SWS,forward vs reverse,binomtest,two-sided,18,20,,0.8714146793645341,n.s.,True
+fig_07,d,Parahipp.,Awake,forward vs reverse,binomtest,two-sided,39,49,,0.33739903685311995,n.s.,True
+fig_07,d,Parahipp.,REM,forward vs reverse,binomtest,two-sided,4,0,,0.125,,False
+fig_07,d,Parahipp.,SWS,forward vs reverse,binomtest,two-sided,16,18,,0.8641662404406816,n.s.,True
+fig_07,d,Hipp.,Awake,forward vs reverse,binomtest,two-sided,11,21,,0.11018416518345475,n.s.,True
+fig_07,d,Hipp.,REM,forward vs reverse,binomtest,two-sided,7,4,,0.548828125,,False
+fig_07,d,Hipp.,SWS,forward vs reverse,binomtest,two-sided,11,17,,0.34492845088243484,n.s.,True
+fig_07,d,Hipp. ripples,Awake,forward vs reverse,binomtest,two-sided,3,5,,0.7265625,,False
+fig_07,d,Hipp. ripples,SWS,forward vs reverse,binomtest,two-sided,5,4,,1.0,,False

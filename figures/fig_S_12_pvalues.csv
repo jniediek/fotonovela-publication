@@ -1,0 +1,12 @@
+figure,region,stage,comparison,test,alternative,n1,statistic,p,stars,drawn
+fig_S_12,Amyg.,Awake,stimulus distance vs peak time,pearsonr,two-sided,47,0.0752467624375326,0.6151833463976818,n.s.,True
+fig_S_12,Amyg.,REM,stimulus distance vs peak time,pearsonr,two-sided,11,-0.12216259510310246,0.720476792897912,n.s.,True
+fig_S_12,Amyg.,SWS,stimulus distance vs peak time,pearsonr,two-sided,42,-0.07237319135155629,0.6487673532222411,n.s.,True
+fig_S_12,Parahipp.,Awake,stimulus distance vs peak time,pearsonr,two-sided,107,-0.09736231779324907,0.31844079827677213,n.s.,True
+fig_S_12,Parahipp.,REM,stimulus distance vs peak time,pearsonr,two-sided,4,-0.5678608215572772,0.43213917844272265,n.s.,True
+fig_S_12,Parahipp.,SWS,stimulus distance vs peak time,pearsonr,two-sided,36,-0.09906091840495634,0.5654224026097736,n.s.,True
+fig_S_12,Hipp.,Awake,stimulus distance vs peak time,pearsonr,two-sided,33,-0.11461836690072437,0.5253352106559356,n.s.,True
+fig_S_12,Hipp.,REM,stimulus distance vs peak time,pearsonr,two-sided,13,-0.18937416911969007,0.5354898713326406,n.s.,True
+fig_S_12,Hipp.,SWS,stimulus distance vs peak time,pearsonr,two-sided,30,-0.1390645931434881,0.4636222060573085,n.s.,True
+fig_S_12,Hipp. ripples,Awake,stimulus distance vs peak time,pearsonr,two-sided,10,-0.4830641043498391,0.15727382649196378,n.s.,True
+fig_S_12,Hipp. ripples,SWS,stimulus distance vs peak time,pearsonr,two-sided,10,-0.23343586026506177,0.5162870778140054,n.s.,True

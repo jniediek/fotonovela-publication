@@ -1,0 +1,22 @@
+figure,panel,region,timepoint,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_S_11,a,Amyg.,,SWS first half vs SWS second half,mannwhitneyu,two-sided,103,96,5859.0,0.02427744507620308,*,True
+fig_S_11,a,Amyg.,,Post-exp. 1h vs Post-exp. 2h,mannwhitneyu,two-sided,114,112,6532.5,0.7633025838000371,n.s.,True
+fig_S_11,c,Amyg.,Post-exp. 1h,forward vs reverse,binomtest,two-sided,2,1,,1.0,n.s.,True
+fig_S_11,c,Amyg.,Post-exp. 2h,forward vs reverse,binomtest,two-sided,0,1,,1.0,n.s.,True
+fig_S_11,c,Amyg.,SWS first half,forward vs reverse,binomtest,two-sided,12,14,,0.8450189828872681,n.s.,True
+fig_S_11,c,Amyg.,SWS second half,forward vs reverse,binomtest,two-sided,10,13,,0.6776394844055176,n.s.,True
+fig_S_11,b,Amyg.,,SWS first half vs SWS second half,wilcoxon,two-sided,18,,77.0,0.7337265014648438,n.s.,True
+fig_S_11,a,Parahipp.,,SWS first half vs SWS second half,mannwhitneyu,two-sided,208,210,22863.0,0.4076969437622593,n.s.,True
+fig_S_11,a,Parahipp.,,Post-exp. 1h vs Post-exp. 2h,mannwhitneyu,two-sided,229,220,25442.0,0.8548169613942854,n.s.,True
+fig_S_11,c,Parahipp.,Post-exp. 1h,forward vs reverse,binomtest,two-sided,5,18,,0.010622024536132812,*,True
+fig_S_11,c,Parahipp.,Post-exp. 2h,forward vs reverse,binomtest,two-sided,10,7,,0.629058837890625,n.s.,True
+fig_S_11,c,Parahipp.,SWS first half,forward vs reverse,binomtest,two-sided,10,3,,0.09228515625,n.s.,True
+fig_S_11,c,Parahipp.,SWS second half,forward vs reverse,binomtest,two-sided,7,4,,0.548828125,n.s.,True
+fig_S_11,b,Parahipp.,,SWS first half vs SWS second half,wilcoxon,two-sided,8,,15.0,0.7421875,n.s.,True
+fig_S_11,a,Hipp.,,SWS first half vs SWS second half,mannwhitneyu,two-sided,121,122,8671.0,0.018589334273058127,*,True
+fig_S_11,a,Hipp.,,Post-exp. 1h vs Post-exp. 2h,mannwhitneyu,two-sided,126,119,7098.5,0.4728353811132642,n.s.,True
+fig_S_11,c,Hipp.,Post-exp. 1h,forward vs reverse,binomtest,two-sided,3,5,,0.7265625,n.s.,True
+fig_S_11,c,Hipp.,Post-exp. 2h,forward vs reverse,binomtest,two-sided,4,5,,1.0,n.s.,True
+fig_S_11,c,Hipp.,SWS first half,forward vs reverse,binomtest,two-sided,5,11,,0.210113525390625,n.s.,True
+fig_S_11,c,Hipp.,SWS second half,forward vs reverse,binomtest,two-sided,10,9,,1.0,n.s.,True
+fig_S_11,b,Hipp.,,SWS first half vs SWS second half,wilcoxon,two-sided,9,,13.0,0.30078125,n.s.,True

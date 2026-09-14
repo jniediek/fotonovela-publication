@@ -1,0 +1,22 @@
+figure,region,group,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_03,Amyg.,inv_self,against 0,wilcoxon,two-sided,40,,60.0,1.8267201085109264e-07,***,True
+fig_03,Amyg.,inv_other,against 0,wilcoxon,two-sided,331,,20701.0,0.0002601251003882767,***,True
+fig_03,Amyg.,resp_self,against 0,wilcoxon,two-sided,93,,736.0,2.7937392100918883e-08,***,True
+fig_03,Amyg.,resp_other,against 0,wilcoxon,two-sided,779,,125784.0,6.46892840441515e-05,***,True
+fig_03,Amyg.,,inv_self vs inv_other,mannwhitneyu,two-sided,40,331,10711.5,1.7067407498033052e-10,***,True
+fig_03,Amyg.,,resp_self vs resp_other,mannwhitneyu,two-sided,93,779,52418.5,1.7373157995599008e-12,***,True
+fig_03,Amyg.,,inv_self vs resp_self,mannwhitneyu,two-sided,40,93,2219.0,0.07856909619387777,n.s.,True
+fig_03,Hipp.,inv_self,against 0,wilcoxon,two-sided,31,,17.0,1.9278377294540405e-07,***,True
+fig_03,Hipp.,inv_other,against 0,wilcoxon,two-sided,259,,11597.0,1.4208529708522038e-05,***,True
+fig_03,Hipp.,resp_self,against 0,wilcoxon,two-sided,98,,894.0,5.73129298561068e-08,***,True
+fig_03,Hipp.,resp_other,against 0,wilcoxon,two-sided,818,,137895.0,1.2011019656365693e-05,***,True
+fig_03,Hipp.,,inv_self vs inv_other,mannwhitneyu,two-sided,31,259,7039.5,7.162426313372351e-12,***,True
+fig_03,Hipp.,,resp_self vs resp_other,mannwhitneyu,two-sided,98,818,57549.0,1.7009226770218123e-12,***,True
+fig_03,Hipp.,,inv_self vs resp_self,mannwhitneyu,two-sided,31,98,2106.5,0.0012130136395924534,**,True
+fig_03,Parahipp.,inv_self,against 0,wilcoxon,two-sided,15,,35.0,0.1688232421875,n.s.,True
+fig_03,Parahipp.,inv_other,against 0,wilcoxon,two-sided,121,,3228.0,0.2315774874211003,n.s.,True
+fig_03,Parahipp.,resp_self,against 0,wilcoxon,two-sided,123,,3801.0,0.9758371223276504,n.s.,True
+fig_03,Parahipp.,resp_other,against 0,wilcoxon,two-sided,999,,238275.0,0.22819703653984458,n.s.,True
+fig_03,Parahipp.,,inv_self vs inv_other,mannwhitneyu,two-sided,15,121,1166.0,0.0730835609827111,n.s.,True
+fig_03,Parahipp.,,resp_self vs resp_other,mannwhitneyu,two-sided,123,999,62814.5,0.6850172230085316,n.s.,True
+fig_03,Parahipp.,,inv_self vs resp_self,mannwhitneyu,two-sided,15,123,1120.5,0.17669122208103782,n.s.,True

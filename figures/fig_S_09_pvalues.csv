@@ -1,0 +1,57 @@
+figure,panel,region,stage,neuron_class,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_S_09,a,Amyg.,Awake,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,296,119,17544.0,0.9512922077977529,,False
+fig_S_09,a,Amyg.,Awake,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,296,19,2662.0,0.6976628682824005,,False
+fig_S_09,a,Amyg.,SWS,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,293,119,19047.0,0.1408974623368736,,False
+fig_S_09,a,Amyg.,SWS,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,293,19,2671.0,0.7688207274833023,,False
+fig_S_09,a,Amyg.,Awake,no_resp,against 0,wilcoxon,two-sided,296,,7813.0,7.181387145643763e-22,***,True
+fig_S_09,a,Amyg.,Awake,resp,against 0,wilcoxon,two-sided,119,,10.0,3.711919858222159e-21,***,True
+fig_S_09,a,Amyg.,Awake,inv,against 0,wilcoxon,two-sided,19,,3.0,1.9073486328125e-05,***,True
+fig_S_09,a,Amyg.,Awake,,no_resp vs resp,mannwhitneyu,two-sided,296,119,6832.0,1.7575761300731611e-22,***,True
+fig_S_09,a,Amyg.,Awake,,no_resp vs inv,mannwhitneyu,two-sided,296,19,1161.0,1.796078193852128e-05,***,True
+fig_S_09,a,Amyg.,SWS,no_resp,against 0,wilcoxon,two-sided,293,,14.0,9.809904011846104e-50,***,True
+fig_S_09,a,Amyg.,SWS,resp,against 0,wilcoxon,two-sided,119,,0.0,2.8809188185621934e-21,***,True
+fig_S_09,a,Amyg.,SWS,inv,against 0,wilcoxon,two-sided,19,,0.0,3.814697265625e-06,***,True
+fig_S_09,a,Amyg.,SWS,,no_resp vs resp,mannwhitneyu,two-sided,293,119,12540.0,7.944785438999585e-06,***,True
+fig_S_09,a,Amyg.,SWS,,no_resp vs inv,mannwhitneyu,two-sided,293,19,2735.0,0.8997598157752149,n.s.,True
+fig_S_09,b,Parahipp.,Awake,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,228,278,26277.0,0.0009373585268044019,,False
+fig_S_09,b,Parahipp.,Awake,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,228,10,141.0,2.7903646458360325e-06,,False
+fig_S_09,b,Parahipp.,SWS,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,226,266,23831.0,7.431980066434027e-05,,False
+fig_S_09,b,Parahipp.,SWS,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,226,10,175.0,6.245060589581061e-06,,False
+fig_S_09,b,Parahipp.,Awake,no_resp,against 0,wilcoxon,two-sided,228,,1331.0,6.568264973793388e-32,***,True
+fig_S_09,b,Parahipp.,Awake,resp,against 0,wilcoxon,two-sided,278,,3448.0,1.4583481606217348e-32,***,True
+fig_S_09,b,Parahipp.,Awake,inv,against 0,wilcoxon,two-sided,10,,0.0,0.001953125,**,True
+fig_S_09,b,Parahipp.,Awake,,no_resp vs resp,mannwhitneyu,two-sided,228,278,35717.0,0.013921428962895374,*,True
+fig_S_09,b,Parahipp.,Awake,,no_resp vs inv,mannwhitneyu,two-sided,228,10,1368.0,0.2857042174613609,n.s.,True
+fig_S_09,b,Parahipp.,SWS,no_resp,against 0,wilcoxon,two-sided,226,,1987.0,3.2590951795882803e-28,***,True
+fig_S_09,b,Parahipp.,SWS,resp,against 0,wilcoxon,two-sided,266,,3213.0,5.2434694731070615e-31,***,True
+fig_S_09,b,Parahipp.,SWS,inv,against 0,wilcoxon,two-sided,10,,7.0,0.037109375,*,True
+fig_S_09,b,Parahipp.,SWS,,no_resp vs resp,mannwhitneyu,two-sided,226,266,30088.0,0.9850235562803193,n.s.,True
+fig_S_09,b,Parahipp.,SWS,,no_resp vs inv,mannwhitneyu,two-sided,226,10,1182.0,0.8074136502714264,n.s.,True
+fig_S_09,c,Hipp.,Awake,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,399,127,20351.0,0.0008327921208060733,,False
+fig_S_09,c,Hipp.,Awake,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,399,14,2016.0,0.07692540926276309,,False
+fig_S_09,c,Hipp.,SWS,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,398,114,21714.0,0.48545319326000846,,False
+fig_S_09,c,Hipp.,SWS,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,398,14,2447.0,0.43953373342610236,,False
+fig_S_09,c,Hipp.,Awake,no_resp,against 0,wilcoxon,two-sided,399,,18739.0,4.3030568725087726e-20,***,True
+fig_S_09,c,Hipp.,Awake,resp,against 0,wilcoxon,two-sided,127,,699.0,5.642076531583242e-16,***,True
+fig_S_09,c,Hipp.,Awake,inv,against 0,wilcoxon,two-sided,14,,0.0,0.0001220703125,***,True
+fig_S_09,c,Hipp.,Awake,,no_resp vs resp,mannwhitneyu,two-sided,399,127,15597.0,6.644518241528845e-11,***,True
+fig_S_09,c,Hipp.,Awake,,no_resp vs inv,mannwhitneyu,two-sided,399,14,650.0,1.0583831986656632e-06,***,True
+fig_S_09,c,Hipp.,SWS,no_resp,against 0,wilcoxon,two-sided,398,,19702.0,3.077839007413489e-18,***,True
+fig_S_09,c,Hipp.,SWS,resp,against 0,wilcoxon,two-sided,114,,414.0,5.668092144481323e-16,***,True
+fig_S_09,c,Hipp.,SWS,inv,against 0,wilcoxon,two-sided,14,,2.0,0.0003662109375,***,True
+fig_S_09,c,Hipp.,SWS,,no_resp vs resp,mannwhitneyu,two-sided,398,114,13809.0,1.847313951782937e-10,***,True
+fig_S_09,c,Hipp.,SWS,,no_resp vs inv,mannwhitneyu,two-sided,398,14,1367.0,0.0011986041271027903,**,True
+fig_S_09,d,Hipp. ripples,Awake,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,138,142,10657.0,0.2050327999939212,,False
+fig_S_09,d,Hipp. ripples,Awake,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,138,12,761.0,0.6450325672229282,,False
+fig_S_09,d,Hipp. ripples,SWS,,"firing rate, no_resp vs resp",mannwhitneyu,two-sided,126,114,9026.0,0.0005984449200676597,,False
+fig_S_09,d,Hipp. ripples,SWS,,"firing rate, no_resp vs inv",mannwhitneyu,two-sided,126,13,920.0,0.46722461508025104,,False
+fig_S_09,d,Hipp. ripples,Awake,no_resp,against 0,wilcoxon,two-sided,138,,4330.0,0.3225047193626367,n.s.,True
+fig_S_09,d,Hipp. ripples,Awake,resp,against 0,wilcoxon,two-sided,142,,2162.0,2.934948083533295e-09,***,True
+fig_S_09,d,Hipp. ripples,Awake,inv,against 0,wilcoxon,two-sided,12,,15.0,0.06396484375,n.s.,True
+fig_S_09,d,Hipp. ripples,Awake,,no_resp vs resp,mannwhitneyu,two-sided,138,142,6987.0,3.340157850279251e-05,***,True
+fig_S_09,d,Hipp. ripples,Awake,,no_resp vs inv,mannwhitneyu,two-sided,138,12,567.0,0.07113810641362575,n.s.,True
+fig_S_09,d,Hipp. ripples,SWS,no_resp,against 0,wilcoxon,two-sided,126,,2718.0,0.00179264499136997,**,True
+fig_S_09,d,Hipp. ripples,SWS,resp,against 0,wilcoxon,two-sided,114,,1552.0,1.0680325371699633e-06,***,True
+fig_S_09,d,Hipp. ripples,SWS,inv,against 0,wilcoxon,two-sided,13,,3.0,0.001220703125,**,True
+fig_S_09,d,Hipp. ripples,SWS,,no_resp vs resp,mannwhitneyu,two-sided,126,114,6069.0,0.038330137685356376,*,True
+fig_S_09,d,Hipp. ripples,SWS,,no_resp vs inv,mannwhitneyu,two-sided,126,13,343.0,0.0005823659464514409,***,True

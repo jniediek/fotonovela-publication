@@ -1,0 +1,19 @@
+figure,panel,stage,neuron_class,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_05,b,,,REM vs Awake,mannwhitneyu,two-sided,121,127,3263.0,4.9795639099031224e-15,***,True
+fig_05,b,,,REM vs SWS,mannwhitneyu,two-sided,121,125,2173.0,4.531151171805369e-22,***,True
+fig_05,d,Awake,inv,against 0,wilcoxon,two-sided,29,,0.0,3.725290298461914e-09,***,True
+fig_05,d,Awake,resp,against 0,wilcoxon,two-sided,94,,30.0,9.941400098717146e-17,***,True
+fig_05,d,SWS,inv,against 0,wilcoxon,two-sided,29,,0.0,3.725290298461914e-09,***,True
+fig_05,d,SWS,resp,against 0,wilcoxon,two-sided,93,,100.0,3.0680592308078513e-15,***,True
+fig_05,d,,,cohen_inv_W vs cohen_inv_3,mannwhitneyu,two-sided,29,29,301.0,0.06422649222029209,n.s.,True
+fig_05,d,,,cohen_resp_W vs cohen_resp_3,mannwhitneyu,two-sided,94,93,2752.0,1.2232629339277878e-05,***,True
+fig_05,,Awake,inv,against 0,wilcoxon,two-sided,29,,0.0,3.725290298461914e-09,,False
+fig_05,,Awake,,inv vs no_resp,mannwhitneyu,two-sided,29,426,7547.0,0.045631443005672526,,False
+fig_05,,Awake,resp,against 0,wilcoxon,two-sided,94,,30.0,9.941400098717146e-17,,False
+fig_05,,Awake,,resp vs no_resp,mannwhitneyu,two-sided,94,426,21802.0,0.1771483556750869,,False
+fig_05,,Awake,no_resp,against 0,wilcoxon,two-sided,426,,1749.0,4.174208100421254e-66,,False
+fig_05,,SWS,inv,against 0,wilcoxon,two-sided,29,,0.0,3.725290298461914e-09,,False
+fig_05,,SWS,,inv vs no_resp,mannwhitneyu,two-sided,29,420,6415.0,0.6311200459297956,,False
+fig_05,,SWS,resp,against 0,wilcoxon,two-sided,93,,100.0,3.0680592308078513e-15,,False
+fig_05,,SWS,,resp vs no_resp,mannwhitneyu,two-sided,93,420,20437.0,0.4834082402424382,,False
+fig_05,,SWS,no_resp,against 0,wilcoxon,two-sided,420,,2440.5,2.2361898895983e-61,,False

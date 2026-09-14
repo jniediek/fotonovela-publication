@@ -1,0 +1,12 @@
+figure,panel,region,comparison,test,alternative,n1,n2,statistic,p,stars,drawn
+fig_S_10,b,Hipp.,Recall vs Pre-experiment,pearsonr,two-sided,53,,0.22013685362659394,0.11321551251717842,n.s.,True
+fig_S_10,c,Hipp.,Recall vs Learning,pearsonr,two-sided,114,,0.46397129180213603,2.001187723432109e-07,***,True
+fig_S_10,d,Hipp.,Recall vs W (hour 1),pearsonr,two-sided,109,,0.3852431049197174,3.526160376925024e-05,***,True
+fig_S_10,e,Hipp.,Recall vs W (hour 2),pearsonr,two-sided,102,,0.2211383843562517,0.025509901304323596,*,True
+fig_S_10,f,Hipp.,Recall vs SWS,pearsonr,two-sided,110,,0.20229155221816045,0.03405848096368622,*,True
+fig_S_10,a,Hipp.,"Pre-experiment, high vs low recall",mannwhitneyu,two-sided,28,25,382.0,0.5746280705895831,n.s.,True
+fig_S_10,a,Hipp.,"Learning, high vs low recall",mannwhitneyu,two-sided,57,57,2227.0,0.0006457307040025506,***,True
+fig_S_10,a,Hipp.,"Recall, high vs low recall",mannwhitneyu,two-sided,57,57,3249.0,3.464862651440442e-20,***,True
+fig_S_10,a,Hipp.,"W (hour 1), high vs low recall",mannwhitneyu,two-sided,55,54,1998.0,0.0018959785194437935,**,True
+fig_S_10,a,Hipp.,"W (hour 2), high vs low recall",mannwhitneyu,two-sided,52,50,1547.0,0.09892870382890288,n.s.,True
+fig_S_10,a,Hipp.,"SWS, high vs low recall",mannwhitneyu,two-sided,55,55,1919.0,0.015218932889553607,*,True

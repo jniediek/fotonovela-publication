@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: Fotonovela figure scripts
+abstract: >-
+  The Python scripts that draw the figures of the fotonovela study, and the
+  reduced data they read.
+type: software
+authors:
+  - family-names: Niediek
+    given-names: Johannes
+license: MIT
+version: 0.1.0
+# repository-code, date-released, the Zenodo doi and a preferred-citation block
+# for the paper will be added later. 
