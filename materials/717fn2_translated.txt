@@ -1,0 +1,39 @@
+known_05.jpg
+An acquaintance
+An acquaintance urgently needs your advice.\nWhat is it about?
+
+duebel.jpg
+Anchor bolt
+Your acquaintance wants to mount something\nusing an anchor bolt. What is it\nhe wants to mount?
+
+eisenbahn1.jpg
+Model railway
+He wants to use the anchor bolt\nto mount his model railway.\nAfterwards he wants to give it away.\nWho does he want to give it to?
+
+epi_elger.jpg
+Professor Elger
+The model railway is a gift for Professor Elger.\nHe immediately invites a colleague,\nto show them his model railway.\nWhom does he invite?
+
+epi_Weisskirchen.jpg
+Ms. Weisskirchen
+Professor Elger invites Ms. Weisskirchen.\nThe two of them start a discussion.\n What is their discussion about?
+
+trump.jpg
+Donald Trump
+Ms. Weisskirchen explains how she wants\nto annoy Donald Trump.\nWhat’s her plan?
+
+lb-feuerwehr.jpg
+Voluntary fire brigade
+Donald Trump should be forced to join\nthe voluntary fire brigade. That would\nsurely do him good.\nWhich other celebrity has already joined them?
+
+michael_schumacher.jpg
+Michael Schumacher
+The voluntary fire brigade is proud to have\nMichael Schumacher as a member!\nHe is also currently on duty.\nWhere has he been deployed to?
+
+logo_ikea.jpg
+IKEA
+Michael Schumacher is currently trying to\nrescue a person from an IKEA store\nthat is on fire.\nWhom is he trying to rescue?
+
+pamela_anderson_01.jpg
+Pamela Anderson
+Pamela Anderson is in the burning IKEA store!\nLet’s hope she doesn’t get injured.
