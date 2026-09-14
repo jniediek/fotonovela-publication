@@ -7,7 +7,7 @@ requires-python = ">=3.14"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "Johannes Niediek" }]
-]
+
 dependencies = [
     "matplotlib>=3.11.1",
     "pandas>=3.0.5",
