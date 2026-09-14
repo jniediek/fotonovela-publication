@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 title: Fotonovela figure scripts
 abstract: >-
-  The Python scripts that draw the figures of the fotonovela study, and the
+  The Python scripts that draw the figures of the Fotonovela study, and the
   reduced data they read.
 type: software
 authors:
