@@ -3,7 +3,7 @@ import matplotlib.pyplot as mpl
 from matplotlib.gridspec import GridSpec
 
 from figure_tools.definitions import (FIG_WIDTH_FULL, FOLDER_STIM_PICTURES,
-                                      MATERIALS_DIR)
+                                      MATERIALS_DIR, anonymize)
 
 from figure_tools.style import save_figure, set_paper_style
 
@@ -16,10 +16,12 @@ def plot_one_item(plot, img_fname, title, text):
     plot.set_xlim((0, 160))
     plot.set_ylim((0, 90))
     plot.axis('off')
-    plot.text(80, 85, title,
+    # plot the title
+    plot.text(80, 85, anonymize(title),
             ha='center', va='top', color='w',
             size=8, weight='bold')
-    text = text.replace('\\n', '\n').replace('\n\n', '\n')
+    # plot the story text
+    text = anonymize(text.replace('\\n', '\n').replace('\n\n', '\n'))
     plot.text(80, 30, text,
             ha='center', va='top', color='w',
             size=6.3)

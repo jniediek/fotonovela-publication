@@ -4,7 +4,8 @@ import matplotlib.cm as cm
 from matplotlib.gridspec import GridSpec
 from matplotlib.patches import Rectangle
 
-from figure_tools.definitions import FOLDER_STIM_PICTURES
+from figure_tools.definitions import (FOLDER_STIM_PICTURES, anonymize,
+                                      two_line_label)
 
 COLOR_SPIKES = '#333377'
 
@@ -43,7 +44,7 @@ def plot_story_timeline(fig, stimuli, spike_times, target_index):
         p_im.imshow(mpl.imread(FOLDER_STIM_PICTURES / stim['filename']))
 
         # the pictures are placeholders and all look alike, so name them
-        p_im.text(85, -5, stim['stim_name'].replace(' ', '\n'),
+        p_im.text(85, -5, anonymize(stim['stim_name'], multiline=True),
                   ha='center', va='bottom')
 
         if i == target_index:

@@ -282,7 +282,7 @@ def draw_stats(plots_dots, plots_perc, data, reg_idxs, regions,
                 plot_perc.text(ipair, textypos,
                         at[i-1], color='k',
                         weight='bold', ha='center',
-                        va='center', size=size, family='Liberation Serif')
+                        va='center', size=size)
                 plot_perc.text(ipair + .26, textypos,
                         '{:>3d}'.format(counts[i]), va='center')
 

@@ -12,7 +12,8 @@ ISI_BINS_INSET = np.arange(0, 10, 1)
 
 from figure_tools.tools_fig_02 import (STAGEDICT, COLOR_LINES, COLOR_LEARN,
         COLOR_SCR_E, COLOR_SCR_M, COLOR_RECALL)
-from figure_tools.definitions import FOLDER_STIM_PICTURES
+from figure_tools.definitions import (FOLDER_STIM_PICTURES, anonymize,
+                                      two_line_label)
 from figure_tools.unit_data import SPIKE_YLIM
 
 COLORMAP = cm.viridis
@@ -239,12 +240,12 @@ def plot_screening(plots, stimulus_frame, unit, stim, param, add_times, add_time
                     (stimframe.time <= border_dict['e_scr_post_fn'][1]))
     stimframe.loc[scr_post_idx, 'daytime'] = 'e_post'
     
-    stimname = stimframe['stim_name'].values[0].replace(' ', '\n')
+    stimname = two_line_label(anonymize(stimframe['stim_name'].values[0]))
     
     # write the name
     plots['name'].text(.5, .5, stimname,
         transform=plots['name'].transAxes, ha='center', va='center',
-        family='Verdana', size=param['stimname_size'])
+        size=param['stimname_size'])
     
     # show the image
     fname = FOLDER_STIM_PICTURES / stimframe['filename'].values[0]
